@@ -1,2 +1,1 @@
-# amCharts-missing-geojsons
-This repository contains several missing GeoJsons from "AmCharts" library.
+This repository contains several missing GeoJsons from "AmCharts maps" library.
